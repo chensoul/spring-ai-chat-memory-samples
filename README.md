@@ -1,1 +1,1 @@
-# Spring AI Samples
+# Spring AI Chat Memory Samples
