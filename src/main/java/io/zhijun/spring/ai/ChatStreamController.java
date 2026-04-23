@@ -1,4 +1,4 @@
-package cc.chensoul.ai;
+package io.zhijun.spring.ai;
 
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotBlank;

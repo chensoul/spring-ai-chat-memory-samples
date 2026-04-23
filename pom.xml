@@ -10,7 +10,7 @@
         <version>4.0.5</version>
         <relativePath/>
     </parent>
-    <groupId>cc.chensoul</groupId>
+    <groupId>io.zhijun.spring.ai</groupId>
     <artifactId>spring-ai-chat-memory-samples</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-ai-chat-memory-samples</name>
